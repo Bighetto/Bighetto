@@ -1,16 +1,39 @@
-### Hi there 👋
+### Olá!
 
-<!--
-**Bighetto/Bighetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prazer, me chamo Arthur, atualmente trabalho com desenvolvimento, focado na linguagem Java, utilizando o Framework Spring Boot e também a tecnologia Docker. Me considero entusiasta em novas tecnologias e inovações. 
 
-Here are some ideas to get you started:
+- Java.
+- Framework Spring Boot.
+- Oracle SOA Suite 12c / JDeveloper.
+- Docker e Docker-compose.
+- GitHub e BitBucket.
+- Selenium.
+- Javascript.
+- Amazon AWS.
+- Postman.
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/Bighetto">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bighetto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bighetto&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  <div style="display: inline_block">
+  <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+  <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/Docker-6495ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+  ##
+  
+<div>
+   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/ArthurBighetto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
