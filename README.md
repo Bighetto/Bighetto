@@ -9,7 +9,9 @@ Prazer, me chamo Arthur, atualmente trabalho com desenvolvimento, focado na ling
 - GitHub e BitBucket.
 - Selenium.
 - Javascript.
-- Amazon AWS.
+- Mysql.
+- Sql Server.
+- Oracle database.
 - Postman.
 <hr>
 
