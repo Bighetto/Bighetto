@@ -4,7 +4,6 @@ Prazer, me chamo Arthur, atualmente trabalho com desenvolvimento, focado na ling
 
 - Java.
 - Framework Spring Boot.
-- Oracle SOA Suite 12c / JDeveloper.
 - Docker e Docker-compose.
 - GitHub e BitBucket.
 - Selenium.
