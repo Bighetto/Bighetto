@@ -1,17 +1,23 @@
 ### Olá!
 
-Prazer, me chamo Arthur, atualmente trabalho com desenvolvimento, focado na linguagem Java, utilizando o Framework Spring Boot e também a tecnologia Docker. Me considero entusiasta em novas tecnologias e inovações. 
+Prazer, me chamo Arthur, atualmente trabalho com desenvolvimento, focado em boas praticas de programacao e clean code. Me considero entusiasta em novas tecnologias e inovações. 
 
-- Java.
-- Framework Spring Boot.
-- Docker e Docker-compose.
-- GitHub e BitBucket.
-- Selenium.
-- Javascript.
-- Mysql.
-- Sql Server.
-- Oracle database.
-- Postman.
+Java
+Kotlin
+SpringBoot
+Clean Architecture
+Microservices
+Design Patterns
+MongoDb
+Apache Kafka
+Apache Ignite 
+Code Review
+Unit Tests
+Mockito
+Mysql
+SQL Server
+Docker
+MVC
 <hr>
 
 
