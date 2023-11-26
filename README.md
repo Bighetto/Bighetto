@@ -2,22 +2,22 @@
 
 Prazer, me chamo Arthur, atualmente trabalho com desenvolvimento, focado em boas praticas de programacao e clean code. Me considero entusiasta em novas tecnologias e inovações. 
 
-Java
-Kotlin
-SpringBoot
-Clean Architecture
-Microservices
-Design Patterns
-MongoDb
-Apache Kafka
-Apache Ignite 
-Code Review
-Unit Tests
-Mockito
-Mysql
-SQL Server
-Docker
-MVC
+-Java
+-Kotlin
+-SpringBoot
+-Clean Architecture
+-Microservices
+-Design Patterns
+-MongoDb
+-Apache Kafka
+-Apache Ignite 
+-Code Review
+-Unit Tests
+-Mockito
+-Mysql
+-SQL Server
+-Docker
+-MVC
 <hr>
 
 
