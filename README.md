@@ -44,13 +44,13 @@ Passionate about new technologies, I'm always seeking challenges and learning op
 
 ## 📈 Contribution Stats
 
-[![Arthur Bighetto's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurbighetto&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)](https://github.com/arthurbighetto)
+[![Arthur Bighetto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bighetto&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Bighetto)
 
 ---
 
 ## 📈 Most Used Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbighetto&layout=compact&langs_count=10&theme=radical)](https://github.com/arthurbighetto)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bighetto&layout=compact&langs_count=10&theme=radical)](https://github.com/Bighetto)
 
 ---
 
