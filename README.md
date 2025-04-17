@@ -13,15 +13,16 @@ Passionate about new technologies, I'm always seeking challenges and learning op
 - ⚡ **Spring Boot**, **NestJS**, **Angular**, **Jetpack Compose**  
 
 **Databases:**  
-- 🛢️ **MongoDB**, **MySQL**, **SQL Server**
+- 🛢️ **MongoDB**, **MySQL**, **SQL Server**, **Apache Ignite**, **Redis**, **Oracle DB**
 
 **Messaging & Architecture:**  
-- 🔑 **Apache Kafka**, **Apache Ignite**  
-- ⚙️ **Clean Architecture**, **Microservices**, **Design Patterns**
+- 🔑 **Apache Kafka**
+- ⚙️ **Clean Architecture**, **Microservices**, **Design Patterns**, **monolithic**
 
 **Testing & DevOps:**  
-- 🧪 **JUnit**, **Mockito**, **Testcontainers**  
-- 🐳 **Docker**, **Redis**
+- 🧪 **JUnit**, **Mockito**
+- 🐳 **Docker** , **Jenkins**, **Sonar**, **Grafana**
+- 🛠️ **Terraform**
 
 ---
 
