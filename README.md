@@ -1,46 +1,63 @@
-### Olá!
+# 👋 Hi! I'm Arthur Bighetto
 
-Prazer, me chamo Arthur, atualmente trabalho com desenvolvimento, focado em boas praticas de programacao e clean code. Me considero entusiasta em novas tecnologias e inovações. 
+I'm a **Backend Software Engineer** with a focus on building **scalable** and **high-performance** solutions. I have solid experience with **Java**, **Kotlin**, **Spring Boot**, and **Node.js (NestJS)**, and I apply best practices such as **Clean Architecture**, **TDD**, and **SOLID** to create robust systems.
 
--Java
--Kotlin
--SpringBoot
--Clean Architecture
--Microservices
--Design Patterns
--MongoDb
--Apache Kafka
--Apache Ignite 
--Code Review
--Unit Tests
--Mockito
--Mysql
--SQL Server
--Docker
--MVC
-<hr>
+Passionate about new technologies, I'm always seeking challenges and learning opportunities. I believe collaboration and clean code are essential for successful software development.
 
+---
 
-<div align="center">
-  <a href="https://github.com/Bighetto">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bighetto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bighetto&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  <div style="display: inline_block">
-  <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
-  <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img align="center" alt="" height="20" width="50" src="https://img.shields.io/badge/Docker-6495ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
+## 🚀 Technologies & Tools
 
-  ##
-  
-<div>
-   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="www.linkedin.com/in/ArthurBighetto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+**Languages & Frameworks:**  
+- 🟩 **Java**, **Kotlin**, **TypeScript**  
+- ⚡ **Spring Boot**, **NestJS**, **Angular**, **Jetpack Compose**  
+
+**Databases:**  
+- 🛢️ **MongoDB**, **MySQL**, **SQL Server**
+
+**Messaging & Architecture:**  
+- 🔑 **Apache Kafka**, **Apache Ignite**  
+- ⚙️ **Clean Architecture**, **Microservices**, **Design Patterns**
+
+**Testing & DevOps:**  
+- 🧪 **JUnit**, **Mockito**, **Testcontainers**  
+- 🐳 **Docker**, **Redis**
+
+---
+
+## 💡 About Me
+
+- **Proactive**, **self-taught**, and always striving to enhance my **technical knowledge**.
+- Focused on **good programming practices** like **Clean Code**, **Test-Driven Development** (TDD), and **SOLID** principles.
+- Experience with **microservices**, well-structured **monoliths**, and **RESTful APIs**.
+- I believe that the best code is easy to understand, maintain, and scale.
+
+---
+
+## 🔍 What I Enjoy Doing
+
+- 🛠️ Developing **scalable and high-performance** solutions with modern technologies.
+- 💬 Collaborating with teams to build **effective and resilient systems**.
+- 📚 Continuously exploring new languages and frameworks to **expand my technical horizon**.
+
+---
+
+## 📈 Contribution Stats
+
+[![Arthur Bighetto's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurbighetto&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)](https://github.com/arthurbighetto)
+
+---
+
+## 📈 Most Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbighetto&layout=compact&langs_count=10&theme=radical)](https://github.com/arthurbighetto)
+
+---
+
+## 🔗 Find Me On
+
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/arthurbighetto/)**
+- 📧 **[Email](mailto:arthurbighetto@gmail.com)**
+
+---
+
